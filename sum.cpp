@@ -11,7 +11,6 @@ int main()
     cin >> b;
     int sum = a+b;
     cout << "Sum of number1 + number2 = " << sum << endl;
-    cin >> a;
 
     return sum;
 }
